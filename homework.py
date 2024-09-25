@@ -1,7 +1,4 @@
 # print("Hello World")
-from dataclasses import replace
-from mailcap import subst
-from operator import index
 
 # print("Mary's cosmetics")
 
@@ -361,3 +358,30 @@ from operator import index
 # data.sort()
 # print(data)
 
+
+
+
+
+
+
+
+# 문제=====================================================================================
+
+# 1. 줄바꿈 없이 출력하라
+# print("동해물과");print("백두산이")
+
+# 2. 다음을 list와 join메서드를 이용하여 표현하라
+# "뭘봐"'뭘봐'
+# 뭘봐
+
+
+# 3. list b의 원소들의 타입을 list c에 저장하라
+b = ['스트링', 231, 32.04]
+
+
+# 4. 다음 변수를 소문자로 표현하여 역순으로 출력하라
+d = 'MIRAN'
+
+
+# 5. 다음 리스트를 가나다 순으로 출력하라
+e = ['라', '바', '가', '다', '나', '마']
